@@ -1,2 +1,3 @@
 # hello-world
-Riya's first repository
+Riya's first repository.
+This is cool!
